@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="address_info">Address wasn\'t received</string>
+    <string name="enter_addr_btn_text">to enter address</string>
+    <string name="to_browser_btn_text">to browser</string>
+    <string name="enter_address_hint">Enter a massage</string>
+    <string name="send_to_first_activity_btn_text">Send to first activity</string>
+    <string name="back_btn_text">back</string>
+</resources>
